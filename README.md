@@ -15,7 +15,16 @@ go to the folder where is located the executable and execute the next command:
 <path_where_is_located_the_csv_file>: Folder where are located the high definition pictures
 <conversion_type>: json or xml
 
+# Architecture
+
+This project is splitted in diferent layers using the Clean Architecture methodology described here (https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures). Here you can find an explanation of each layer:
+
+CSVToJSON: It contains the first layer logic. Here we'll show to the user the interactive messages.
+Core: It contains the business logic: Entities, Services, DTOs, etc.
+Infrastructure.Data: It contains the data layer.
+Infrastructure.DependencyBuilder: It contains all the dependecy injections. If you add a new service or repository class, you will need to add the injection here.
+
 # Author
-Oscar Rodriguez - oscar.chelo@gmail.com
-https://oscarchelo.blogspot.com/
-https://www.linkedin.com/in/oscar-rodriguez-lopez-70b2a337
+Oscar Rodriguez - oscar.chelo@gmail.com<br />
+https://oscarchelo.blogspot.com/<br />
+https://www.linkedin.com/in/oscar-rodriguez-lopez-70b2a337<br />
