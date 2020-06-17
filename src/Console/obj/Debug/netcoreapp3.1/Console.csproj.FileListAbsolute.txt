@@ -1,0 +1,7 @@
+C:\GITHUB\CSVToJSON\src\Console\bin\Debug\netcoreapp3.1\Console.exe
+C:\GITHUB\CSVToJSON\src\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+C:\GITHUB\CSVToJSON\src\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+C:\GITHUB\CSVToJSON\src\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\GITHUB\CSVToJSON\src\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GITHUB\CSVToJSON\src\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+C:\GITHUB\CSVToJSON\src\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete

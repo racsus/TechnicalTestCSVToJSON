@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "58BokLdR0JtmOgrRU9K+dxMWLbaTX6Z36iEtkZ9+qRyJkeLodg9tksgYl6QhL3eYwmgT1rY6IHbRJ3VilipzTw==",
+  "success": true,
+  "projectFilePath": "C:\\GITHUB\\CSVToJSON\\src\\Console\\CSVToJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oscar\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\microsoft.netcore.targets\\1.1.2\\microsoft.netcore.targets.1.1.2.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\system.console\\4.3.1\\system.console.4.3.1.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

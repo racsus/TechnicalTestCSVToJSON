@@ -1,0 +1,12 @@
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.Data\bin\Debug\netstandard2.0\Infrastructure.Data.deps.json
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.Data\bin\Debug\netstandard2.0\Infrastructure.Data.dll
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.Data\bin\Debug\netstandard2.0\Infrastructure.Data.pdb
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.Data\bin\Debug\netstandard2.0\CSVToJSON.Core.dll
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.Data\bin\Debug\netstandard2.0\CSVToJSON.Core.pdb
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.csprojAssemblyReference.cache
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.AssemblyInfoInputs.cache
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.AssemblyInfo.cs
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.csproj.CopyComplete
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.dll
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.pdb

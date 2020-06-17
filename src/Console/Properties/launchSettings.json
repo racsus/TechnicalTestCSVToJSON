@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSVToJSON": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\test\\test.csv xml"
+    }
+  }
+}

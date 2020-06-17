@@ -1,0 +1,9 @@
+C:\GITHUB\CSVToJSON\src\Core\CSVToJSON.Core\bin\Debug\netstandard2.0\CSVToJSON.Core.deps.json
+C:\GITHUB\CSVToJSON\src\Core\CSVToJSON.Core\bin\Debug\netstandard2.0\CSVToJSON.Core.dll
+C:\GITHUB\CSVToJSON\src\Core\CSVToJSON.Core\bin\Debug\netstandard2.0\CSVToJSON.Core.pdb
+C:\GITHUB\CSVToJSON\src\Core\CSVToJSON.Core\obj\Debug\netstandard2.0\CSVToJSON.Core.csprojAssemblyReference.cache
+C:\GITHUB\CSVToJSON\src\Core\CSVToJSON.Core\obj\Debug\netstandard2.0\CSVToJSON.Core.AssemblyInfoInputs.cache
+C:\GITHUB\CSVToJSON\src\Core\CSVToJSON.Core\obj\Debug\netstandard2.0\CSVToJSON.Core.AssemblyInfo.cs
+C:\GITHUB\CSVToJSON\src\Core\CSVToJSON.Core\obj\Debug\netstandard2.0\CSVToJSON.Core.dll
+C:\GITHUB\CSVToJSON\src\Core\CSVToJSON.Core\obj\Debug\netstandard2.0\CSVToJSON.Core.pdb
+C:\GITHUB\CSVToJSON\src\Core\CSVToJSON.Core\obj\Debug\netstandard2.0\CSVToJSON.Core.csproj.CoreCompileInputs.cache

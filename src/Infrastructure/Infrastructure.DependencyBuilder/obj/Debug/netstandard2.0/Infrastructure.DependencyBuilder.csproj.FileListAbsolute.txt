@@ -1,0 +1,14 @@
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.DependencyBuilder\bin\Debug\netstandard2.0\Infrastructure.DependencyBuilder.deps.json
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.DependencyBuilder\bin\Debug\netstandard2.0\Infrastructure.DependencyBuilder.dll
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.DependencyBuilder\obj\Debug\netstandard2.0\Infrastructure.DependencyBuilder.AssemblyInfoInputs.cache
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.DependencyBuilder\obj\Debug\netstandard2.0\Infrastructure.DependencyBuilder.AssemblyInfo.cs
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.DependencyBuilder\bin\Debug\netstandard2.0\Infrastructure.DependencyBuilder.pdb
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.DependencyBuilder\bin\Debug\netstandard2.0\CSVToJSON.Core.dll
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.DependencyBuilder\bin\Debug\netstandard2.0\CSVToJSON.Core.pdb
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.DependencyBuilder\obj\Debug\netstandard2.0\Infrastructure.DependencyBuilder.csprojAssemblyReference.cache
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.DependencyBuilder\obj\Debug\netstandard2.0\Infrastructure.DependencyBuilder.csproj.CoreCompileInputs.cache
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.DependencyBuilder\obj\Debug\netstandard2.0\Infrastructure.DependencyBuilder.csproj.CopyComplete
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.DependencyBuilder\obj\Debug\netstandard2.0\Infrastructure.DependencyBuilder.dll
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.DependencyBuilder\obj\Debug\netstandard2.0\Infrastructure.DependencyBuilder.pdb
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.DependencyBuilder\bin\Debug\netstandard2.0\Infrastructure.Data.dll
+C:\GITHUB\CSVToJSON\src\Infrastructure\Infrastructure.DependencyBuilder\bin\Debug\netstandard2.0\Infrastructure.Data.pdb

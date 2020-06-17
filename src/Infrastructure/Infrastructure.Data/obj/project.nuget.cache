@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nqs37bFyYFaQEHSs4tDJzX3+ZQrZz8wWTeEGqTse662MiJ01sqGtl8l13IOHqBR+QCV9+HGHAaY0eMmDjG16rQ==",
+  "success": true,
+  "projectFilePath": "C:\\GITHUB\\CSVToJSON\\src\\Infrastructure\\Infrastructure.Data\\Infrastructure.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oscar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
