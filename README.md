@@ -19,10 +19,10 @@ go to the folder where is located the executable and execute the next command:
 
 This project is splitted in diferent layers using the Clean Architecture methodology described here (https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures). Here you can find an explanation of each layer:
 
-CSVToJSON: It contains the first layer logic. Here we'll show to the user the interactive messages.
-Core: It contains the business logic: Entities, Services, DTOs, etc.
-Infrastructure.Data: It contains the data layer.
-Infrastructure.DependencyBuilder: It contains all the dependecy injections. If you add a new service or repository class, you will need to add the injection here.
+CSVToJSON: It contains the first layer logic. Here we'll show to the user the interactive messages.<br />
+Core: It contains the business logic: Entities, Services, DTOs, etc.<br />
+Infrastructure.Data: It contains the data layer.<br />
+Infrastructure.DependencyBuilder: It contains all the dependecy injections. If you add a new service or repository class, you will need to add the injection here.<br />
 
 # Author
 Oscar Rodriguez - oscar.chelo@gmail.com<br />
